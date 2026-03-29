@@ -5,8 +5,8 @@ Plano Didáctico Innovador
 
 Asignatura: Innovaciones y Tendencias en la Educación en Línea
 Actividad: Diseño de un plan de lección con metodología innovadora y tecnología.
-Introducción: La arquitectura del aprendizaje se centra en el diseño de experiencias educativas organizadas y significativas, donde el docente actúa como un arquitecto que planifica estrategias y herramientas para facilitar el aprendizaje.
-Este enfoque integra metodologías innovadoras como la gamificación, el aula invertida y el aprendizaje basado en proyectos, promoviendo un aprendizaje dinámico, participativo y adaptado a la educación digital actual.
+
+Introducción: La arquitectura del aprendizaje se centra en el diseño de experiencias educativas organizadas y significativas, donde el docente actúa como un arquitecto que planifica estrategias y herramientas para facilitar el aprendizaje. Este enfoque integra metodologías innovadoras como la gamificación, el aula invertida y el aprendizaje basado en proyectos, promoviendo un aprendizaje dinámico, participativo y adaptado a la educación digital actual.
 
 Fase 1 – Exploración de Estrategias de Diseño Educativo
 1.1	Gamificación: La gamificación es una metodología que incorpora elementos de juego como puntos, niveles, retos y recompensas dentro del proceso educativo. En la arquitectura del aprendizaje, se utiliza para diseñar experiencias más dinámicas y motivadoras.
