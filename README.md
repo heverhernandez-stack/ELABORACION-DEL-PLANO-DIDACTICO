@@ -10,6 +10,7 @@ Introducción: La arquitectura del aprendizaje se centra en el diseño de experi
 
 Fase 1 – Exploración de Estrategias de Diseño Educativo
 1.1	Gamificación: La gamificación es una metodología que incorpora elementos de juego como puntos, niveles, retos y recompensas dentro del proceso educativo. En la arquitectura del aprendizaje, se utiliza para diseñar experiencias más dinámicas y motivadoras.
+
 Ventajas:
 • Aumenta la motivación de los estudiantes
 • Mejora la participación activa
@@ -19,6 +20,7 @@ Herramientas Tecnológicas:
 Kahoot, Genially, Classcraft
 
 1.2 Aula Invertida: El aula invertida es una estrategia que reorganiza el proceso de enseñanza. Los estudiantes revisan los contenidos teóricos en casa mediante recursos digitales y el tiempo en clase se utiliza para actividades prácticas.
+
 Ventajas:
 • Aprovecha mejor el tiempo en el aula
 • Mejora la comprensión del contenido
@@ -29,6 +31,7 @@ YouTube, Edpuzzle, Google Classroom
 
 1.3 Aprendizaje Basado en Proyectos (ABP)
 El ABP es una metodología donde los estudiantes aprenden mediante la creación de proyectos relacionados con situaciones reales. En la arquitectura del aprendizaje, permite construir el conocimiento de forma activa.
+
 Ventajas:
 • Desarrolla el pensamiento crítico
 • Fomenta la creatividad
@@ -39,6 +42,7 @@ Canva, Padlet, Google Docs
 
 Fase 2 – Selección del Diseño Pedagógico
 Metodología seleccionada Aprendizaje Basado en Proyectos (ABP)
+
 ¿Por qué?
 Se selecciona esta metodología porque permite diseñar experiencias educativas donde el estudiante participa activamente en la construcción del conocimiento.
 Además, se adapta al enfoque de la arquitectura del aprendizaje, ya que conecta la teoría con la práctica y desarrolla habilidades importantes como la creatividad, la colaboración y la resolución de problemas.
@@ -49,15 +53,18 @@ Objetivo de aprendizaje: Que los estudiantes comprendan el concepto de arquitect
 
 Metodología innovadora aplicada: Se aplicará el Aprendizaje Basado en Proyectos (ABP), donde los estudiantes trabajarán en grupos para diseñar un plan de aprendizaje digital. Integrarán una metodología innovadora y una herramienta tecnológica, actuando como arquitectos del aprendizaje.
 Actividades de aprendizaje
+
 Inicio:
 • Explicación del concepto de arquitectura del aprendizaje
 • Presentación de ejemplos
 • Preguntas para activar conocimientos previos
+
 Desarrollo:
 • Formación de grupos
 • Investigación de metodologías innovadoras
 • Diseño de un plan de aprendizaje
 • Creación del proyecto digital
+
 Cierre:
 • Presentación de los trabajos
 • Retroalimentación
@@ -66,8 +73,8 @@ Cierre:
 Herramienta tecnológica
 Se utilizará Canva, ya que permite crear presentaciones visuales del plan de aprendizaje.
 Esta herramienta facilita la organización de ideas, fomenta la creatividad y mejora la presentación del contenido.
-Estrategia de evaluación
-Se evaluará mediante:
+
+Estrategia de evaluación, Se evaluará mediante:
 • Participación en el trabajo grupal
 • Comprensión del tema
 • Creatividad del proyecto
@@ -77,6 +84,7 @@ Se puede utilizar una rúbrica y también incluir autoevaluación.
 Fase 4 – Reflexión del Arquitecto del Aprendizaje
 ¿Cómo contribuye esta metodología al aprendizaje?
 El ABP permite que los estudiantes aprendan haciendo, lo que mejora la comprensión y hace el aprendizaje más significativo.
+
 ¿Cómo fortalece la tecnología tu propuesta pedagógica?
 La tecnología facilita la investigación, la creación de contenidos y la interacción, haciendo el aprendizaje más dinámico e innovador.
 
